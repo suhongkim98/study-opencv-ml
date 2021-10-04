@@ -16,6 +16,8 @@ source .venv/bin/activate
 pip3 install jupyter
 pip3 install opencv-python
 pip3 install matplotlib
+pip3 install sklearn
+pip3 install seaborn
 ```
 
 ### 주피터 노트북 열기
