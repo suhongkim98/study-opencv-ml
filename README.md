@@ -18,6 +18,8 @@ pip3 install opencv-python
 pip3 install matplotlib
 pip3 install sklearn
 pip3 install seaborn
+pip3 install tensorflow
+pip3 install keras
 ```
 
 ### 주피터 노트북 열기
