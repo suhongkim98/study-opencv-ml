@@ -20,6 +20,7 @@ pip3 install sklearn
 pip3 install seaborn
 pip3 install tensorflow
 pip3 install keras
+pip3 install googletrans==4.0.0rc1
 ```
 
 ### 주피터 노트북 열기
